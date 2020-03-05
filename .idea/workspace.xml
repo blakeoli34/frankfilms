@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e460054-2439-4425-9dd8-5b8b5181498a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XpNwtnV4S1ug0LHPZE8K7lE1ws" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\sites\ff\wp-content\themes\frankfilms\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e460054-2439-4425-9dd8-5b8b5181498a" name="Default Changelist" comment="" />
+      <created>1581739317168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581739317168</updated>
+      <workItem from="1581739318997" duration="14834000" />
+      <workItem from="1582317486211" duration="53532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2536" y="148" key="run.anything.popup" timestamp="1582473185507">
+      <screen x="1920" y="-190" width="1920" height="1050" />
+    </state>
+    <state x="2536" y="148" key="run.anything.popup/0.30.1536.834/1920.-190.1920.1050@1920.-190.1920.1050" timestamp="1582473185507" />
+    <state x="431" y="186" key="search.everywhere.popup" timestamp="1582428763381">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" key="search.everywhere.popup/0.30.1536.834/1920.-190.1920.1050@0.30.1536.834" timestamp="1582428763381" />
+  </component>
+</project>
