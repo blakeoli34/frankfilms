@@ -122,6 +122,23 @@ header.main-header {
 .hero__video iframe {
 	object-fit: cover;
 	pointer-events: none;
+	position:absolute;
+	top:-25%;
+}
+.hero.short .hero__video iframe {
+	top:-50%;
+}
+
+@media screen and (max-width:700px) {
+	.hero__video iframe {
+		object-fit: cover;
+		pointer-events: none;
+		position:absolute;
+		top:30%;
+	}
+	.hero.short .hero__video iframe {
+		top:30%;
+	}
 }
 
 @media (min-aspect-ratio: 16/9) {
